@@ -1,10 +1,12 @@
-Aqui está um exemplo de README para o seu projeto "Slider Infinito" que pode chamar a atenção:
-
----
-
 # Slider Infinito
 
 Bem-vindo ao **Slider Infinito**, um projeto elegante e responsivo de sliders contínuos e animados, criado com HTML e CSS. Este projeto foi pensado para fornecer uma experiência visual fluida e dinâmica, ideal para showcases, galerias de imagens ou qualquer outro conteúdo que você queira apresentar de forma contínua e estilizada.
+
+## 📸 Prévia
+
+*Aperte na imagem para entrar no site*
+
+[![Slider Preview](img/imagem.png)](https://campelo3110.github.io/Slide-Infinito/)
 
 ## 🎨 Características
 
@@ -27,9 +29,6 @@ Bem-vindo ao **Slider Infinito**, um projeto elegante e responsivo de sliders co
 3. **Personalize o Slider**:
    No arquivo CSS, você pode alterar as variáveis `--width`, `--height`, e `--quantity` para adaptar o slider ao seu conteúdo.
 
-## 📸 Preview
-
-![Slider Preview](img/imagem.png) ()
 
 ## 🛠️ Tecnologias Utilizadas
 
